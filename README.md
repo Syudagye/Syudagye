@@ -8,7 +8,7 @@ I'm a french underaged developer who needs to find better profile pictures.
 
 ## Cool projects
 
-- [GD Pythagorean](https://github.com/gd-Pythagorean) - "Home to the Euclidean project." (Basically a thing around gd.)
+- [GD Pythagorean](https://github.com/gd-Pythagorean) - "Home to the Euclidean project." (Basically things around gd.)
 
 ### Contact thing
 
