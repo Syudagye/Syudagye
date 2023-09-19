@@ -1,10 +1,10 @@
 # Hey :3
 
-I'm a french degenerate IT student who found a better profile picture *(and it's home-made, and it's cool, don't say otherwise >:3)*.
+I'm a french degenerate IT student who found a better profile picture *(i made it myself, and it's not that bad...)*.
 
 ## Main projects
 
-*none for now, sadly ;w;*
+*TODO: Fin a main project*
 
 ## Currently contributing to
 
@@ -25,6 +25,6 @@ I'm a french degenerate IT student who found a better profile picture *(and it's
 
 ### Contact me !
 
-- Discord: @Syudagye#2693
+- Discord: @syudagye (old: @Syudagye#2693)
 - Matrix: @syudagye:matrix.org
 - [Odysee/LBRY](https://odysee.com/@Syudagye:4e835668985480fd43683862e327981c7f965cc4) (not really coding related lol)
